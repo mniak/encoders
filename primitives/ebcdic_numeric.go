@@ -4,8 +4,8 @@ import (
 	"strconv"
 
 	"github.com/gdumoulin/goebcdic"
-	"github.com/mniak/encoders/encoders/core"
-	"github.com/mniak/encoders/encoders/internal"
+	"github.com/mniak/encoders/core"
+	"github.com/mniak/encoders/internal"
 )
 
 func EBCDICNumber() core.EncoderDecoder[int] {

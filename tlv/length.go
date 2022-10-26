@@ -3,7 +3,7 @@ package tlv
 import (
 	"encoding/binary"
 
-	"github.com/mniak/encoders/encoders/core"
+	"github.com/mniak/encoders/core"
 )
 
 type Length uint

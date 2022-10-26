@@ -1,6 +1,6 @@
 package encoders
 
-import "github.com/mniak/encoders/encoders/core"
+import "github.com/mniak/encoders/core"
 
 type childEncoder[Parent any, Child any] struct {
 	inner    core.EncoderDecoder[Child]

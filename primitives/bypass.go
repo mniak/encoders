@@ -1,6 +1,6 @@
 package primitives
 
-import "github.com/mniak/encoders/encoders/core"
+import "github.com/mniak/encoders/core"
 
 type bypassEncoder struct{}
 

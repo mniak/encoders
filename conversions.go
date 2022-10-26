@@ -1,8 +1,8 @@
 package encoders
 
 import (
-	"github.com/mniak/encoders/encoders/core"
-	"github.com/mniak/encoders/encoders/internal"
+	"github.com/mniak/encoders/core"
+	"github.com/mniak/encoders/internal"
 )
 
 type numeric interface {

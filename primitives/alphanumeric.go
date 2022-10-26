@@ -2,8 +2,8 @@ package primitives
 
 import (
 	"github.com/gdumoulin/goebcdic"
-	"github.com/mniak/encoders/encoders/core"
-	"github.com/mniak/encoders/encoders/internal"
+	"github.com/mniak/encoders/core"
+	"github.com/mniak/encoders/internal"
 )
 
 func AlphaNumeric() core.EncoderDecoder[string] {

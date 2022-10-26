@@ -3,7 +3,7 @@ package utils
 import (
 	"fmt"
 
-	"github.com/mniak/encoders/encoders/core"
+	"github.com/mniak/encoders/core"
 	"github.com/pkg/errors"
 	"go.uber.org/multierr"
 )

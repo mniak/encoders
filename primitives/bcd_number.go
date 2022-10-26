@@ -1,8 +1,8 @@
 package primitives
 
 import (
-	"github.com/mniak/encoders/encoders/core"
-	"github.com/mniak/encoders/encoders/internal"
+	"github.com/mniak/encoders/core"
+	"github.com/mniak/encoders/internal"
 )
 
 func BCDNumber() core.EncoderDecoder[int] {

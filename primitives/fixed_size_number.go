@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/mniak/encoders/encoders/core"
+	"github.com/mniak/encoders/core"
 )
 
 type uintEncoder struct {

@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/mniak/encoders/encoders/core"
+	"github.com/mniak/encoders/core"
 )
 
 type Tag uint16

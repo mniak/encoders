@@ -3,8 +3,8 @@ package encoders
 import (
 	"fmt"
 
-	"github.com/mniak/encoders/encoders/core"
-	"github.com/mniak/encoders/encoders/primitives"
+	"github.com/mniak/encoders/core"
+	"github.com/mniak/encoders/primitives"
 	"github.com/pkg/errors"
 )
 

@@ -3,8 +3,8 @@ package encoders
 import (
 	"errors"
 
-	"github.com/mniak/encoders/encoders/core"
-	"github.com/mniak/encoders/encoders/internal"
+	"github.com/mniak/encoders/core"
+	"github.com/mniak/encoders/internal"
 )
 
 func TruncateStringPadLeft(size byte, padchar rune, inner core.EncoderDecoder[string]) core.EncoderDecoder[string] {

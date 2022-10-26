@@ -1,8 +1,8 @@
 package tlv
 
 import (
-	"github.com/mniak/encoders/encoders/core"
-	"github.com/mniak/encoders/encoders/utils"
+	"github.com/mniak/encoders/core"
+	"github.com/mniak/encoders/utils"
 	"github.com/pkg/errors"
 )
 

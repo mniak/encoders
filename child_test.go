@@ -5,7 +5,7 @@ import (
 
 	"github.com/brianvoe/gofakeit/v6"
 	"github.com/golang/mock/gomock"
-	"github.com/mniak/encoders/encoders/internal/mocks"
+	"github.com/mniak/encoders/internal/mocks"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

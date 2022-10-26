@@ -1,6 +1,6 @@
 package encoders
 
-import "github.com/mniak/encoders/encoders/core"
+import "github.com/mniak/encoders/core"
 
 type lengthConstraintEncoder[T any] struct {
 	inner    core.EncoderDecoder[T]

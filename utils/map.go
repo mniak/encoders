@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/mniak/encoders/encoders/core"
+	"github.com/mniak/encoders/core"
 )
 
 type rawMapEncoder[K comparable] struct {
